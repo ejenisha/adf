@@ -10,6 +10,7 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobStorageLocation",
+				"fileName": "orders_consolidated",
 				"container": "output"
 			},
 			"columnDelimiter": ",",
